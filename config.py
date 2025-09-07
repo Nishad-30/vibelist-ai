@@ -6,7 +6,7 @@ from typing import Dict, List
 # Spotify API Configuration
 SPOTIFY_CLIENT_ID = "c1d3899cb6d04fbe939e2c6a09f135b0"
 SPOTIFY_CLIENT_SECRET = "09800c6ebfd14f54981cc58a750d3b14"
-SPOTIFY_REDIRECT_URI = 'http://localhost:8501/callback'
+SPOTIFY_REDIRECT_URI = 'https://vibelist-ai-fexjfzthtbjhexppt2btfv.streamlit.app/'
 
 # Model Configuration
 MODEL_PATH = 'trained_model.pkl'
