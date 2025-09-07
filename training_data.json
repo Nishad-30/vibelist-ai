@@ -1,0 +1,82 @@
+[
+  {
+    "vibe": "late-night coding session",
+    "genres": ["electronic", "ambient", "lo-fi", "instrumental"],
+    "energy": 0.4,
+    "valence": 0.3,
+    "tempo": "medium",
+    "characteristics": ["focus", "minimal", "atmospheric"]
+  },
+  {
+    "vibe": "rainy day focus",
+    "genres": ["ambient", "classical", "lo-fi", "indie"],
+    "energy": 0.3,
+    "valence": 0.4,
+    "tempo": "slow",
+    "characteristics": ["calm", "introspective", "soothing"]
+  },
+  {
+    "vibe": "upbeat 80s workout",
+    "genres": ["pop", "rock", "dance", "80s"],
+    "energy": 0.9,
+    "valence": 0.8,
+    "tempo": "fast",
+    "characteristics": ["energetic", "motivational", "retro"]
+  },
+  {
+    "vibe": "morning coffee ritual",
+    "genres": ["jazz", "acoustic", "indie", "folk"],
+    "energy": 0.5,
+    "valence": 0.6,
+    "tempo": "medium",
+    "characteristics": ["warm", "cozy", "gentle"]
+  },
+  {
+    "vibe": "road trip adventure",
+    "genres": ["rock", "pop", "country", "indie"],
+    "energy": 0.7,
+    "valence": 0.7,
+    "tempo": "medium-fast",
+    "characteristics": ["uplifting", "freedom", "adventure"]
+  },
+  {
+    "vibe": "study session deep focus",
+    "genres": ["classical", "ambient", "instrumental", "minimal"],
+    "energy": 0.2,
+    "valence": 0.3,
+    "tempo": "slow",
+    "characteristics": ["concentration", "peaceful", "non-distracting"]
+  },
+  {
+    "vibe": "party night energy",
+    "genres": ["hip-hop", "dance", "pop", "electronic"],
+    "energy": 0.9,
+    "valence": 0.9,
+    "tempo": "fast",
+    "characteristics": ["energetic", "social", "danceable"]
+  },
+  {
+    "vibe": "romantic dinner",
+    "genres": ["jazz", "soul", "r&b", "acoustic"],
+    "energy": 0.4,
+    "valence": 0.7,
+    "tempo": "slow",
+    "characteristics": ["intimate", "smooth", "romantic"]
+  },
+  {
+    "vibe": "melancholy evening",
+    "genres": ["indie", "alternative", "folk", "acoustic"],
+    "energy": 0.3,
+    "valence": 0.2,
+    "tempo": "slow",
+    "characteristics": ["emotional", "reflective", "bittersweet"]
+  },
+  {
+    "vibe": "summer beach vibes",
+    "genres": ["reggae", "tropical", "pop", "surf"],
+    "energy": 0.6,
+    "valence": 0.8,
+    "tempo": "medium",
+    "characteristics": ["relaxed", "sunny", "carefree"]
+  }
+]
