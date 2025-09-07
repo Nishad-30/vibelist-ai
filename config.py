@@ -2,11 +2,13 @@
 
 import os
 from typing import Dict, List
+# In spotify_client.py or config.py
+import streamlit as st
 
-# Spotify API Configuration
-SPOTIFY_CLIENT_ID = "c1d3899cb6d04fbe939e2c6a09f135b0"
-SPOTIFY_CLIENT_SECRET = "09800c6ebfd14f54981cc58a750d3b14"
-SPOTIFY_REDIRECT_URI = 'https://vibelist-ai-fexjfzthtbjhexppt2btfv.streamlit.app/'
+# No need to import a config file for these
+CLIENT_ID = st.secrets["SPOTIPY_CLIENT_ID"]
+CLIENT_SECRET = st.secrets["SPOTIPY_CLIENT_SECRET"]
+REDIRECT_URI = st.secrets["SPOTIPY_REDIRECT_URI"]
 
 # Model Configuration
 MODEL_PATH = 'trained_model.pkl'
